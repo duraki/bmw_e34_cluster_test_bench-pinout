@@ -1,0 +1,98 @@
+https://forum.e34.de/thread.php?threadid=55666
+
+Instrument cluster: defective / malfunctions	
+
+Unfortunately, the instrument cluster isn't one of the E34's most durable and reliable components. A total of five different versions were installed, all of which are characterized by different possible defects:
+
+
+Low (without check control)
+installed in: 518i M40 (import), 520i M20, 520i M50, 524td
+Period: until 09/1990
+Manufacturer: Motometer
+
+Identification features:
+- Mechanical km counter in the speedometer
+- Uneven scaling on the fuel gauge
+- White back of the instrument cluster
+- Coding plug (black) is in the back of the station wagon
+
+Defects and remedies:
+Service interval display can no longer be reset or lights up constantly, even without ignition:
+Replace the batteries on the circuit board (1.2V mignon). If these have leaked, they have usually already etched the circuit board - the only solution here is to replace them.
+
+
+Low redesign (without check control)
+installed in: 518i M40, 518i M43, 520i M50, 524td, 525td, 525tds
+Period: from 09/1990
+Manufacturer: Motometer
+
+Identifying features:
+- digital km counter in the lower part of the speedometer
+- silver back of the Combination instrument
+- coding plug (green) is in the rear of the combination unit
+
+Defects and remedies:
+Pixel error in the display:
+remove the circuit board, re-solder the display's soldering points on the back. Reconnect the circuit board of the instrument cluster in the car and press on the ribbon cable of the display. Once the error has been resolved, try to fix the cable in this position - otherwise the only solution is to replace the circuit board in the long term, since the connections of the ribbon cable on the display cannot be repaired (glued, ribbon cable tears).
+
+"Code" display in the km counter:
+coding plug faulty or circuit board defective. Recoding the coding plug usually helps, but not all BMW workshops do this. The best thing to do is to insert a different coding plug from a working instrument cluster and see whether the error has then been rectified. A new coding plug costs approx. EUR 90 from BMW, and a new coding approx. EUR 30.
+
+Instruments fail, do not display correctly or jump:
+Here, too, the coding plug is faulty or the circuit board is defective.
+
+
+High (with check control)
+installed in: 525i M20, 530i M30, 535i, M5 3.6
+Period: up to 02/1989
+Manufacturer: VDO
+
+Identifying features:
+- Gray back of the instrument cluster
+- Coding plug is integrated in the brown connector plug
+- No ASC indicator light between the speedometer and tachometer (above the EML light) (M5: ///M symbol instead of EML light)
+
+Defects and remedies:
+The daily kilometer counter is automatically reset to 000.0 after the ignition is switched off and/or a continuous tone from the gong when the ignition lock is in the radio position:
+Replace the electrolytic capacitors ("Elkos") on the circuit board ( picture , yellow arrows).
+
+Odometer stops at 299,960 km:
+unfortunately a design-related error and not a real defect. A possible remedy for experienced screwdrivers and electronics engineers is described under this link , but it is not for everyone. This instrument cluster can, for example, be replaced by a high redesign (see below), which only very rarely shows signs of failure and can be traded for around EUR 50 (M5: approx. EUR 150) used. However, if they are not from the same E34 model as the existing one, they then have to be recoded (PM me if you are interested).
+
+
+High redesign (with check control)
+installed in: 525i M20, 525i M50, 530i M30, 535i, M5 3.6
+Period: 02/1989 to 09/1990
+Manufacturer: VDO
+
+Identifying features:
+- white back of the instrument cluster
+- coding plug (brown) is at the back in the back of the station wagon
+- ASC warning light between the speedometer and rev counter: triangle with "ASC" lettering (M5: ///M symbol)
+- reserve area of ​​the fuel gauge marked in red
+
+Defects and remedies:
+no regularly occurring errors known
+
+
+High redesign (with check control)
+installed in: 525i M50, 530i M60, 535i, 540i, M5 3.6, M5 3.8
+Period: from 09/1990
+Manufacturer: VDO
+
+Identifying features:
+- Blue back of the instrument cluster (in some exchange devices also white)
+- Coding plug (blue) is in the back of the station wagon
+- ASC indicator light between speedometer and rev counter: triangle with exclamation mark (M5: ///M symbol)
+- charge indicator light no longer between speedometer and rev counter, but at the bottom left
+- reserve area of ​​the fuel gauge not Defects marked red
+
+and remedy:
+no regularly occurring errors known
+
+Miscellaneous:
+The instruments of the two High Redesign combos are compatible with each other.
+
+
+
+Further information about the E34's instrument cluster is available in the screwdriver corner at www.e34.de.
