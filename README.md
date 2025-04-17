@@ -4,10 +4,10 @@
 
 ## GENERAL INFORMATION
 
-This repository is a public analysis of a BMW Series-5 E34 instrument cluster dashboard, with car produced up to 1996 *(MY. 1988-1996)*. Alongside the visual analysis of specific pins and headers, the pinout and expected voltage levels or the bus signals required to trigger the sensor data, are also described next to the pin no. row. Each pin row fully tries to describe what each port interface wire, the backside of the instr. cluster, is used for. The result of this analysis was required when building a control panel prototype that allows testing and modding of the instrument cluster's interface. The analysis started theorethically, and formed from the early breadbroad playground testing analysis, and let it rest forever in the publicity of the mass to the final PCB KiCad schematics, printables and production, hopofelly, logicaly correct tho. Anyway ...
+This repository is a public analysis of a BMW 5 Series E34 instrument cluster dashboard, for cars produced up to 1996 (MY. `1988–1996`). Alongside the visual analysis of specific pins and headers, the pinout and expected voltage levels or bus signals required to trigger the sensor data are described next to each pin number. Each pin row aims to fully describe the purpose of each wire interface on the backside of the instrument cluster. This analysis began theoretically and evolved from early breadboard playground testing. It now lives permanently in the public domain, culminating in final PCB KiCad schematics, printables, and—hopefully—logically correct production files. Anyway...
 
 * The source file is: [`E34_Low_Cluster_1988-1990-Pinout-Diagram `**`.numbers`**](/E34_Low_Cluster_1988-1990-Pinout-Diagram.numbers)
-* Final build is a PDF: [`E34_Low_Cluster_1988-1990-Pinout-Diagram `**`.pdf`**](/E34_Low_Cluster_1988-1990-Pinout-Diagram.pdf)
+* Final build is a PDF: [`E34_Low_Cluster_1988-1990-Pinout-Diagram `**`.pdf`**](/E34_Low_Cluster_1988-1990-Pinout-Diagram.pdf), for `/exports/`, see [this page](/exports/pdf/)
 
 ### SUPPORTED MODELS
 
